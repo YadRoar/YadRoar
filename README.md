@@ -1,16 +1,73 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YadRoar/YadRoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yadith Rodríguez 👋
 
-Here are some ideas to get you started:
+### Computer Engineer | Cybersecurity | Cloud | Enterprise Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building secure infrastructure, cloud security solutions, and automation projects.
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Engineer with 5+ years of experience in IT Infrastructure, Enterprise Networking, Cloud Security, and Cybersecurity.
+
+I enjoy building secure environments, automating repetitive tasks with Python, and continuously learning new technologies related to cloud and security.
+
+Currently interested in:
+
+- 🔐 Cybersecurity
+- ☁️ Cloud Security
+- 🌐 Enterprise Networking
+- 🐍 Python Automation
+- 📊 Security Monitoring
+
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,linux,bash,powershell,docker,git,github,aws,vscode&perline=5" />
+</p>
+
+
+## 🔒 Security & Infrastructure
+
+- Cloudflare
+- Fortinet
+- Cisco
+- MikroTik
+- Raisecom
+- Juniper
+- VMware
+- Windows Server
+- Ubuntu
+- Red Hat Enterprise Linux
+
+  ## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🛡 Cloudflare Labs | Security configurations and implementation examples |
+| 🌐 Networking Labs | VLANs, Routing, Switching and VPN |
+| 🐍 Python Security Toolkit | Automation scripts for cybersecurity |
+| 🔍 Security Onion Lab | SOC monitoring and threat detection |
+| ☁️ AWS Security Labs | Cloud security and infrastructure |
+
+
+## 📜 Certifications
+
+- 🎓 Bachelor's Degree in Computer Engineering
+- 📚 CompTIA Security+ (In Progress)
+- ☁️ AWS Cloud Practitioner (Planned)
+
+  ## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yadith-rodriguez/
+- 📧 Email: shir.y.ra@gmail.com
+
+
+
+
+
