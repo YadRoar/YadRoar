@@ -64,7 +64,7 @@ Currently interested in:
 
   ## 📫 Connect with Me
 
-- [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="16"/> Instagram](https://www.instagram.com/yadroar/)
+- [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="16"/> Instagram](https://www.instagram.com/yad.roar/)
 - [<img src="https://cdn.simpleicons.org/linkedin/0077B5" width="16"/> LinkedIn](https://linkedin.com/in/Yadith-Rodriguez/)
 - [<img src="https://cdn.simpleicons.org/gmail/EA4335" width="16"/> Email](mailto:shir.y.ra@gmail.com)
 
