@@ -64,7 +64,8 @@ Currently interested in:
 
   ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/yadith-rodriguez/
+ [instagram]: https://www.instagram.com/yadroar/
+- 💼[linkedin]: https://linkedin.com/in/Yadith-Rodriguez/
 - 📧 Email: shir.y.ra@gmail.com
 
 
