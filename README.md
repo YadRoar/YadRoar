@@ -2,10 +2,11 @@
 
 # Hi, I'm Yadith Rodríguez 👋
 
-![](https://img.shields.io/badge/Computer_Engineer-007ACC?style=flat-square) 
-![](https://img.shields.io/badge/Cybersecurity-007ACC?style=flat-square) 
-![](https://img.shields.io/badge/Cloud-007ACC?style=flat-square) 
-![](https://img.shields.io/badge/Enterprise_Networking-007ACC?style=flat-square)
+<p align="center">
+  <img src="./banner.png" alt="Yadith Rodriguez Banner" width="100%">
+</p>
+
+<br>
 
 Building secure infrastructure, cloud security solutions, and automation projects.
 
