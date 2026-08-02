@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi, I'm <span style="color: #007ACC;">Yadith Rodríguez</span> 👋
+# Hi, I'm Yadith Rodríguez 👋
 
-### <span style="color: #007ACC;">Computer Engineer | Cybersecurity | Cloud | Enterprise Networking</span>
+![](https://img.shields.io/badge/Computer_Engineer-007ACC?style=flat-square) 
+![](https://img.shields.io/badge/Cybersecurity-007ACC?style=flat-square) 
+![](https://img.shields.io/badge/Cloud-007ACC?style=flat-square) 
+![](https://img.shields.io/badge/Enterprise_Networking-007ACC?style=flat-square)
 
 Building secure infrastructure, cloud security solutions, and automation projects.
 
