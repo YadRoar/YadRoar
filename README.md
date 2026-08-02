@@ -46,6 +46,7 @@ Currently interested in:
 - Windows Server
 - Ubuntu
 - Red Hat Enterprise Linux
+- Kali
 
   ## 🚀 Featured Projects
 
