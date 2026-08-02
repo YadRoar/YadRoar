@@ -1,13 +1,12 @@
 <div align="center">
 
-# Hi, I'm Yadith Rodríguez 👋
+# Hi, I'm <span style="color: #007ACC;">Yadith Rodríguez</span> 👋
 
-### Computer Engineer | Cybersecurity | Cloud | Enterprise Networking
+### <span style="color: #007ACC;">Computer Engineer | Cybersecurity | Cloud | Enterprise Networking</span>
 
 Building secure infrastructure, cloud security solutions, and automation projects.
 
 </div>
-
 ---
 
 ## 👩‍💻 About Me
