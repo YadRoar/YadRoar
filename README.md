@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hi, I'm Yadith Rodríguez 👋
-
 <p align="center">
   <img src="./banner.png" alt="Yadith Rodriguez Banner" width="100%">
 </p>
