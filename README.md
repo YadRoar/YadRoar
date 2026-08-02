@@ -10,7 +10,7 @@
 Building secure infrastructure, cloud security solutions, and automation projects.
 
 </div>
----
+
 
 ## 👩‍💻 About Me
 
