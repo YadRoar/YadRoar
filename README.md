@@ -53,7 +53,7 @@ Currently interested in:
 |---------|-------------|
 | 🛡 Cloudflare Labs | Security configurations and implementation examples |
 | 🌐 Networking Labs | VLANs, Routing, Switching and VPN |
-| 🐍 Python Security Toolkit | Automation scripts for cybersecurity |
+| 🐍 Python | Automation scripts for AWS |
 | 🔍 Security Onion Lab | SOC monitoring and threat detection |
 | ☁️ AWS Security Labs | Cloud security and infrastructure |
 
