@@ -62,7 +62,8 @@ Currently interested in:
 
 - 🎓 Bachelor's Degree in Computer Engineering
 - 📚 CompTIA Security+ (In Progress)
-- ☁️ AWS Cloud Practitioner 
+- ☁️ AWS Cloud Practitioner
+- ☁️ Cloudflare Advanced
 
   ## 📫 Connect with Me
 
